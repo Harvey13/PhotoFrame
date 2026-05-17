@@ -5,7 +5,7 @@
 
 ![Photo Frame en action](screenshot1.png)
 
-**Photo Frame** est une application gratuite qui transforme votre écran en un cadre photo élégant. Affichez vos images en mode unique ou en diaporama, avec des effets de cadre et des réglages personnalisables.
+**Photo Frame** est une application gratuite qui affiche un cadre photo élégant. Affichez vos images en mode unique ou en diaporama, avec des effets de cadre et des réglages personnalisables.
 
 ---
 
